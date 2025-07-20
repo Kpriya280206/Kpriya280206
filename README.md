@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Kpriya280206
-- 👀 I’m interested in BIOINFORMATICS
-- 🌱 I’m currently learning BIOINFORMATICS+FULL STACK+DESIGNING+ MUCH MORE
-- 💞️ I’m looking to collaborate on NOT YET
-- 📫 How to reach me @kpriyars0028@gmail.com
+- 👀 I’m interested in COMPUTER SCIENCE AND BIOINFORMATICS
+- 🌱 I’m currently learning BIOINFORMATICS , CODING ETC ( STILL ON EXPLORATION PHASE OF LIFE )
+- 💞️ I’m looking to collaborate on THE PROJECTS I WORK ON
+- 📫 How to reach me @kpriyars0028@gmail.com, @kpriyars0028work@gmail.com 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I M FUNNY 
 
 <!---
 Kpriya280206/Kpriya280206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
